@@ -1,0 +1,33 @@
+body{
+    background-color: #FFF6CD;
+}
+
+h1{
+    text-align: center;
+    color: #150050;
+    padding-top: 80px;
+}
+.card{
+    a
+    text-align: center;
+    background-color: #112031;
+    color: #F6D167;
+    border-radius: 5%;
+    width: 305px;
+    height: 200px;
+    top: 45%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 0px 30px;
+    
+}
+
+.content{
+    text-align: center;
+}
+.container{
+    
+  
+}
